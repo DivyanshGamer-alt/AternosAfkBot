@@ -1,10 +1,11 @@
 {
 	"ip":"CarelessSMP.aternos.me",
 	"port": 39188,
-	"name": "MR_MR11",
+	"name": "HarshKaBeta",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register UnknownGuy@123 UnknownGuy@123",
 	"login-cmd":"/login UnknownGuy@123"
 
 }
+
