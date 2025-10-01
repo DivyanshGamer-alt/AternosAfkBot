@@ -57,10 +57,10 @@ function task(i) {
 
     setTimeout(function () {
         if (first == true) {
-            bot.chat("Support the Project https://github.com/healer-op/AternosAfkBot staring it")
+            bot.chat("Thanks For Playing CareLessSMP")
             first = false;
         } else {
-            bot.chat("Support the Project https://github.com/healer-op/AternosAfkBot staring it")
+            bot.chat("Thanks For Playing CareLessSMP")
             first = true;
         }
     }, 3600000 * i);
@@ -206,7 +206,7 @@ bot.on('chat', (username, message) => {
         bot.chat(`figth me myname`)
         bot.chat(`Hi myname`)
         bot.chat(`==================================`)
-        bot.chat(`Made by https://github.com/healer-op/AternosAfkBot`)
+        bot.chat(`Made by @UnknownGuy6666`)
     }
 
     if (message === `Hi ${bot.username} i am a girl`) {
@@ -268,11 +268,12 @@ app.get('/', (req, res) => {
     Pvp Counter <b>${pvpc}</b>
     <br>
     <br>
-    Made By <b>https://github.com/healer-op/AternosAfkBot</b>`)
+    Made By @UnknownGuy6666`)
 });
 
 
 app.listen(port, () => {
     console.log(`Example app listening at http://localhost:${port}`);
-    console.log('MADE BY HEALER')
+    console.log('MADE BY UnknownGuy')
 })
+
